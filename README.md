@@ -1,1 +1,1 @@
-# Turismo-Uruguay
+# Turismo
